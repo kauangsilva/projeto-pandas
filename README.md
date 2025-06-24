@@ -48,5 +48,5 @@ Com base na análise dos dados:
 
 ## 📬 Contato
 
-[Kauan Silva]  
-[https://biolink.website/socialKauanSilva]  
+- Kauan Silva
+- https://biolink.website/socialKauanSilva
