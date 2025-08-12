@@ -48,5 +48,7 @@ Com base na análise dos dados:
 
 ## 📬 Contato
 
-- Kauan Silva
-- https://biolink.website/socialKauanSilva
+- [LinkedIn](https://www.linkedin.com/in/kauansilva96/)
+- [Biolink](https://biolink.website/socialKauanSilva)
+- Email: kauangsilva1996@gmail.com
+
