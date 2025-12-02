@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas com Pandas
 
-Este projeto tem como objetivo demonstrar habilidades práticas com **Pandas**, **tratamento de dados** e **visualização em Python**, a partir de uma planilha fictícia de vendas.
+Este projeto tem como objetivo demonstrar habilidades práticas com **Pandas**, **tratamento de dados** e **visualização em Python**, a partir de uma planilha fictícia de vendas para extrações de Insights relevantes.
 
 Foram realizadas operações como agrupamentos, somatórios, criação de colunas, filtros, consultas específicas e gráficos, simulando um cenário real de análise de desempenho comercial.
 
@@ -12,6 +12,7 @@ Foram realizadas operações como agrupamentos, somatórios, criação de coluna
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- Google Colab
 
 ---
 
